@@ -3,8 +3,6 @@ package com.example.myapplication;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.google.android.material.bottomnavigation.BottomNavigationView;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
@@ -12,6 +10,7 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.example.myapplication.databinding.ActivityMainBinding;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -47,6 +46,17 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: Test Git");
         Log.d(TAG, "onCreate: Test Git");
         Log.d(TAG, "onCreate: Test Git");
-    }
 
+
+        Log.d(TAG, "onCreate: Test Git");
+
+        Log.d(TAG, "onCreate: Test Git");
+
+        Log.d(TAG, "onCreate: Test Git");
+
+        for (int i = 0; i < 20; i++) {
+            Log.d(TAG, "onCreate: Test Git :" + i);
+        }
+
+    }
 }
