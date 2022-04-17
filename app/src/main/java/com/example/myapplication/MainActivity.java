@@ -58,5 +58,14 @@ public class MainActivity extends AppCompatActivity {
             Log.d(TAG, "onCreate: Test Git :" + i);
         }
 
+
+        for (int i = 0; i < 20; i++) {
+            Log.d(TAG, "onCreate: Test Git :" + i);
+        }
+
+        for (int i = 0; i < 20; i++) {
+            Log.d(TAG, "onCreate: Test Git :" + i);
+        }
+
     }
 }
