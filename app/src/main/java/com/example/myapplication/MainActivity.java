@@ -35,5 +35,19 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupWithNavController(binding.navView, navController);
         Log.d(TAG, "onCreate: Test Git");
 
+        Log.d(TAG, "onCreate: Test Git");
+
+        Log.d(TAG, "onCreate: Test Git");
+
+        Log.d(TAG, "onCreate: Test Git");
+
+        for (int i = 0; i < 20; i++) {
+            Log.d(TAG, "onCreate: Test Git :" + i);
+        }
+
+
+        for (int i = 0; i < 20; i++) {
+            Log.d(TAG, "onCreate: Test Git :" + i);
+        }
     }
 }
