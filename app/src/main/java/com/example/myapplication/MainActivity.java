@@ -40,11 +40,9 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: Test Git");
         Log.d(TAG, "onCreate: Test Git");
         Log.d(TAG, "onCreate: Test Git");
-        Log.d(TAG, "onCreate: Test Git");
-        Log.d(TAG, "onCreate: Test Git");
-        Log.d(TAG, "onCreate: Test Git");
-        Log.d(TAG, "onCreate: Test Git");
-        Log.d(TAG, "onCreate: Test Git");
+
+
+
         Log.d(TAG, "onCreate: Test Git");
 
 
